@@ -1,0 +1,2 @@
+# 213fde06f1462748-church-ministry-automated-emai
+Built for church ministry professionals who are tired of context-switching away from your editor to look things up.  Status bar integration gives you real-time feedback without opening panels. Compatible with Remote SSH, WSL, Dev Containers, and GitHub Codespaces.  ## What's Included  - Church Ministry Automated Email Sequence Builder — fully confi
